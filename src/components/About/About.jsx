@@ -43,11 +43,7 @@ function About() {
         {/* Call to Action */}
         <Card className="mb-8 shadow-lg rounded-lg">
           <div className="flex flex-col md:flex-row items-center">
-            <img
-              src={aboutImg}
-              alt="Mari Bergabung Bersama Kami"
-              className="md:w-1/2 w-full h-64 object-cover rounded-l-lg"
-            />
+
             <div className="p-6 text-center md:text-left text-black">
               <h2 className="text-3xl font-semibold mb-4 ">Mari Bergabung Bersama Kami!</h2>
               <p className="text-lg mb-6">
