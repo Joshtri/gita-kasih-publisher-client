@@ -1,4 +1,4 @@
-import footerImg from '../../assets/footerImg.jpg';
+import footerImg from '../../assets/gita-kasih-footer.jpg';
 import { FaInstagram } from "react-icons/fa";
 import { CiFacebook } from "react-icons/ci";
 import { MdLocationCity } from "react-icons/md";
@@ -12,7 +12,7 @@ const Footer = () => {
                     <img 
                         src={footerImg} 
                         alt="Logo" 
-                        className="w-full h-auto max-w-xs md:max-w-md rounded-lg shadow-lg" 
+                        className="w-full h-auto max-w-sm md:max-w-md rounded-lg shadow-lg" 
                     />
                 </div>
 
